@@ -6,8 +6,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;![Code Quality](https://img.shields.io/badge/dynamic/json?url=https://www.jsonkeeper.com/b/KNO7&label=code%20quality&query=codequality&style=flat-square&labelColor=grey&color=yellowgreen)
 &nbsp;&nbsp;&nbsp;&nbsp;![platform](https://img.shields.io/badge/dynamic/json?url=https://www.jsonkeeper.com/b/KNO7&label=platform&query=platform&style=flat-square&labelColor=grey&color=purple)
 
-![example](../asset/screen.png?raw=true)
-
 ## Description
 This tool is used for advanced phishing attacks using reverse proxy. It can also bypass **2FA** or **2-factor authorization**. Captured tokens will be written in the file `token.txt` on successful phish. Attacker can use this tool to phish victim with any website by creating a suitable configuration and using a signed **SSL\TLS certificate**(victim will see `https` connection). Author has already tested it with **gmail, outlook & icloud**, however no orginal config has been uploaded here for security purposes. This tool is only to be used as a POC to understand advanced phishing and for **Red Teaming** purposes.
 <br>
@@ -83,12 +81,5 @@ Use `'' (blank single quotes)` if you want to apply that replacement on all the 
 |`block_paths`   |&emsp; [paths] |
 |`get_cookie`    |&emsp; [cookie names] |
 
-## Disclaimer
-*This tool is merely a POC of what attackers can do. Author is not responsible for any use of this tool in any nefarious activity.*<br>
-*Configs given as an example here are anti script-kiddies.*
 
-## License
-**cipherginx** is made by **@cipheras** and is released under the terms of the &nbsp;![GitHub License](https://img.shields.io/github/license/cipheras/cipherginx?color=darkgreen)
-
-## Contact &nbsp; [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fcipheras%2Fcipherginx&label=Tweet)](https://twitter.com/intent/tweet?text=Hi:&url=https%3A%2F%2Fgithub.com%2Fcipheras%2Fcipherginx)
-> Feel free to submit a bug, add features or issue a pull request.
+## Contact &nbsp; https://www.linkedin.com/in/francesco-fedele-0702b614b/
