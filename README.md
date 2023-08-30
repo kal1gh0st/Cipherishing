@@ -1,5 +1,6 @@
 # Cipherishing
-Advanced phishing tool used for session &amp; credential grabbing and bypassing 2FA using man-in-the-middle attack with standalone reverse proxy server.
+CipherGinx   GitHub release (latest by date)
+Advanced phishing tool used for session & credential grabbing and bypassing 2FA using man-in-the-middle attack with standalone reverse proxy server.
 Lines of code     Python version     Code Quality     platform
 
 example
