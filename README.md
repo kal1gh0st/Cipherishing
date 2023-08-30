@@ -6,6 +6,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;![Code Quality](https://img.shields.io/badge/dynamic/json?url=https://www.jsonkeeper.com/b/KNO7&label=code%20quality&query=codequality&style=flat-square&labelColor=grey&color=yellowgreen)
 &nbsp;&nbsp;&nbsp;&nbsp;![platform](https://img.shields.io/badge/dynamic/json?url=https://www.jsonkeeper.com/b/KNO7&label=platform&query=platform&style=flat-square&labelColor=grey&color=purple)
 
+![image](https://github.com/kal1gh0st/Cipherishing/assets/56889513/ce751af5-4ef4-4ae5-b5d1-b2188c6793a6)
+
 ## Description
 This tool is used for advanced phishing attacks using reverse proxy. It can also bypass **2FA** or **2-factor authorization**. Captured tokens will be written in the file `token.txt` on successful phish. Attacker can use this tool to phish victim with any website by creating a suitable configuration and using a signed **SSL\TLS certificate**(victim will see `https` connection). Author has already tested it with **gmail, outlook & icloud**, however no orginal config has been uploaded here for security purposes. This tool is only to be used as a POC to understand advanced phishing and for **Red Teaming** purposes.
 <br>
