@@ -6,6 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;![Code Quality](https://img.shields.io/badge/dynamic/json?url=https://www.jsonkeeper.com/b/KNO7&label=code%20quality&query=codequality&style=flat-square&labelColor=grey&color=yellowgreen)
 &nbsp;&nbsp;&nbsp;&nbsp;![platform](https://img.shields.io/badge/dynamic/json?url=https://www.jsonkeeper.com/b/KNO7&label=platform&query=platform&style=flat-square&labelColor=grey&color=purple)
 
+![image](https://github.com/kal1gh0st/Cipherishing/assets/56889513/c67c85c7-2c2d-4057-84ab-f38567931213)
 ![image](https://github.com/kal1gh0st/Cipherishing/assets/56889513/ce751af5-4ef4-4ae5-b5d1-b2188c6793a6)
 
 ## Description
